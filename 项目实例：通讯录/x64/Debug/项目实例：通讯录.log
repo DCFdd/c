@@ -1,0 +1,6 @@
+﻿  通讯录管理系统.cpp
+D:\dianzhi\C++\项目实例：通讯录\通讯录管理系统.cpp(174,12): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+D:\dianzhi\C++\项目实例：通讯录\通讯录管理系统.cpp(198,6): warning C4101: “a_sex”: 未引用的局部变量
+D:\dianzhi\C++\项目实例：通讯录\通讯录管理系统.cpp(275,5): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\dianzhi\C++\项目实例：通讯录\通讯录管理系统.cpp(190): warning C4715: “afz”: 不是所有的控件路径都返回值
+  项目实例：通讯录.vcxproj -> D:\dianzhi\C++\05：数组\x64\Debug\项目实例：通讯录.exe
